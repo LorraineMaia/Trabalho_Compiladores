@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace sted;
+using namespace std;
 
 int main(){
 
